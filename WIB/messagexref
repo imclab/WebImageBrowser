@@ -1,0 +1,30 @@
+#!/usr/bin/gawk -f 
+
+( FNR == 1 ) {
+
+    match( FILENAME, /[^A-Z]([A-Za-z]+)\.java/, a );
+    java = a[1];
+
+    if ( match( java, /([A-Za-z]+Message)$/, a ) )
+	message[a[1]] = java;
+
+
+}
+
+/Message.class/ {
+
+    match( $0, /[^A-Z]([A-Za-z]+Message)\.class/, a );
+    
+    if ( a[1] != "" )
+	listener[a[1]] = listener[a[1]] ";" java;
+    next;
+
+}
+
+END {
+
+    for ( m in message )
+	if ( listener[m] == "" )
+	    print m
+
+}

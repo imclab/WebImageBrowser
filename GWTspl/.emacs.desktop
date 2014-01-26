@@ -1,0 +1,776 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jun 19 18:10:17 2013
+;; Desktop file format version 206
+;; Emacs version 23.1.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKVector.java"
+  "XTKVector.java"
+  'java-mode
+  '(abbrev-mode)
+  655
+  '(644 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKTexture.java"
+  "XTKTexture.java"
+  'java-mode
+  '(abbrev-mode)
+  926
+  '(890 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKSphere.java"
+  "XTKSphere.java"
+  'java-mode
+  '(abbrev-mode)
+  4456
+  '(4414 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKScalars.java"
+  "XTKScalars.java"
+  'java-mode
+  '(abbrev-mode)
+  2566
+  '(1113 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKRenderer3D.java"
+  "XTKRenderer3D.java"
+  'java-mode
+  '(abbrev-mode)
+  743
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKRenderer2D.java"
+  "XTKRenderer2D.java"
+  'java-mode
+  '(abbrev-mode)
+  627
+  '(996 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKRenderer.java"
+  "XTKRenderer.java"
+  'java-mode
+  '(abbrev-mode)
+  1715
+  '(646 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKCamera.java"
+  "XTKCamera.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Util/XML.java"
+  "XML.java"
+  'java-mode
+  '(abbrev-mode)
+  754
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Util/Base64.java"
+  "Base64.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Util/MD5.java"
+  "MD5.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKColortable.java"
+  "XTKColortable.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKThresholdable.java"
+  "XTKThresholdable.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/CSG.java"
+  "CSG.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKLoadable.java"
+  "XTKLoadable.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKArray.java"
+  "XTKArray.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKFibers.java"
+  "XTKFibers.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKFile.java"
+  "XTKFile.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/Array.java"
+  "Array.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XvectorArray.java"
+  "XvectorArray.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKBuffer.java"
+  "XTKBuffer.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKBase.java"
+  "XTKBase.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKInteractor3D.java"
+  "XTKInteractor3D.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKLabelmap.java"
+  "XTKLabelmap.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKShaders.java"
+  "XTKShaders.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKCylinder.java"
+  "XTKCylinder.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKTransform.java"
+  "XTKTransform.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKInteractor2D.java"
+  "XTKInteractor2D.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/Float32Array.java"
+  "Float32Array.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKDisplayable.java"
+  "XTKDisplayable.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKCube.java"
+  "XTKCube.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKConstructable.java"
+  "XTKConstructable.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKObject.java"
+  "XTKObject.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKCamera3D.java"
+  "XTKCamera3D.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/Event.java"
+  "Event.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKVolume.java"
+  "XTKVolume.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKInteractor.java"
+  "XTKInteractor.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKCamera2D.java"
+  "XTKCamera2D.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/ArrayBuffer.java"
+  "ArrayBuffer.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKTriplets.java"
+  "XTKTriplets.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKSlice.java"
+  "XTKSlice.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/XTKMesh.java"
+  "XTKMesh.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Interpolator/LaGrangianInterpolator.java"
+  "LaGrangianInterpolator.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Interpolator/SplineInterpolator.java"
+  "SplineInterpolator.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Interpolator/AbstractInterpolator.java"
+  "AbstractInterpolator.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/EOFException.java"
+  "EOFException.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/ElementBuffer.java"
+  "ElementBuffer.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Element.java"
+  "Element.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/DataConversionException.java"
+  "DataConversionException.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Format.java"
+  "Format.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/ElementReader.java"
+  "ElementReader.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Attribute.java"
+  "Attribute.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Document.java"
+  "Document.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Comment.java"
+  "Comment.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/SAXBuilder.java"
+  "SAXBuilder.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Stream.java"
+  "Stream.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/JDOMException.java"
+  "JDOMException.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/AbstractDoubleMatrix.java"
+  "AbstractDoubleMatrix.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/DoubleMatrix.java"
+  "DoubleMatrix.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/Quaternion.java"
+  "Quaternion.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/QuaternionSlerp.java"
+  "QuaternionSlerp.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/LUDecomposition.java"
+  "LUDecomposition.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/DoubleSquareMatrix.java"
+  "DoubleSquareMatrix.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/AbstractDoubleSquareMatrix.java"
+  "AbstractDoubleSquareMatrix.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/QuaternionSpline.java"
+  "QuaternionSpline.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/Matrix2D.java"
+  "Matrix2D.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/DoubleVector.java"
+  "DoubleVector.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/SingularMatrixException.java"
+  "SingularMatrixException.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/AbstractDoubleVector.java"
+  "AbstractDoubleVector.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+

@@ -1,0 +1,4022 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Sep 26 11:08:56 2013
+;; Desktop file format version 206
+;; Emacs version 23.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name "/home/spl/src/java/WIB/TAGS")
+(setq tags-table-list '("/home/spl/src/java/WIB/TAGS"))
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/AbstractPlugin.java"
+  "AbstractPlugin.java"
+  'java-mode
+  '(abbrev-mode)
+  6047
+  '(6258 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/image/ImageFactoryInterface.java"
+  "ImageFactoryInterface.java"
+  'java-mode
+  '(abbrev-mode)
+  187
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/InteractionPanel.java"
+  "InteractionPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  12755
+  '(17278 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/dialogs/LivewireDialog.java"
+  "LivewireDialog.java"
+  'java-mode
+  '(abbrev-mode)
+  5676
+  '(6184 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHPlugin.java"
+  "SLASHPlugin.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(19104 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/drawable/Drawable.java"
+  "Drawable.java"
+  'java-mode
+  '(abbrev-mode)
+  25762
+  '(25722 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/toolbox/AbstractToolBox.java"
+  "AbstractToolBox.java"
+  'java-mode
+  '(abbrev-mode)
+  5079
+  '(5045 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/toolbox/ToggleTool.java"
+  "ToggleTool.java"
+  'java-mode
+  '(abbrev-mode)
+  781
+  '(701 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHToolBox.java"
+  "SLASHToolBox.java"
+  'java-mode
+  '(abbrev-mode)
+  3894
+  '(3999 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/mobile/MobileSLASHToolsButton.java"
+  "MobileSLASHToolsButton.java"
+  'java-mode
+  '(abbrev-mode)
+  2143
+  '(1304 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/message_factory/AbstractDrawMessageFactory.java"
+  "AbstractDrawMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  1989
+  '(1935 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/message_factory/AddPolygonMessageFactory.java"
+  "AddPolygonMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  1000
+  '(839 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/message_factory/AddPolylineMessageFactory.java"
+  "AddPolylineMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  1009
+  '(957 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/message_factory/DrawPolylineMessageFactory.java"
+  "DrawPolylineMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  874
+  '(718 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/message_factory/DrawPolygonMessageFactory.java"
+  "DrawPolygonMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  869
+  '(869 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/mode/SLASHDatabaseMode/SLASHdbModeHandler.java"
+  "SLASHdbModeHandler.java"
+  'java-mode
+  '(abbrev-mode)
+  3657
+  '(3602 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/dialogs/AbstractOperationDialog.java"
+  "AbstractOperationDialog.java"
+  'java-mode
+  '(abbrev-mode)
+  1439
+  '(1409 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/dialogs/InterpolationDialog.java"
+  "InterpolationDialog.java"
+  'java-mode
+  '(abbrev-mode)
+  1618
+  '(2440 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/message/MessageManager.java"
+  "MessageManager.java"
+  'java-mode
+  '(abbrev-mode)
+  3443
+  '(1447 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/message/Message.java"
+  "Message.java"
+  'java-mode
+  '(abbrev-mode)
+  910
+  '(730 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/dialogs/EditDialog.java"
+  "EditDialog.java"
+  'java-mode
+  '(abbrev-mode)
+  12334
+  '(5802 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AcceptCancelButtons.java"
+  "AcceptCancelButtons.java"
+  'java-mode
+  '(abbrev-mode)
+  645
+  '(628 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/image/AbstractImage.java"
+  "AbstractImage.java"
+  'java-mode
+  '(abbrev-mode)
+  18
+  '(483 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/resources/icons/SLASHToolBoxClientBundle.java"
+  "SLASHToolBoxClientBundle.java"
+  'java-mode
+  '(abbrev-mode)
+  439
+  '(398 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AbstractActionMessageFactory.java"
+  "AbstractActionMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  5460
+  '(482 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/HorizontalSlider.java"
+  "HorizontalSlider.java"
+  'java-mode
+  '(abbrev-mode)
+  1580
+  '(1580 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/AddTraceMessageFactory.java"
+  "AddTraceMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  743
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/ZoomBar.java"
+  "ZoomBar.java"
+  'java-mode
+  '(abbrev-mode)
+  1446
+  '(2276 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/drawable/PointFactory.java"
+  "PointFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  2246
+  '(2031 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/mobile/MobileHorizontalSlider.java"
+  "MobileHorizontalSlider.java"
+  'java-mode
+  '(abbrev-mode)
+  1061
+  '(1495 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/StatusPanel.java"
+  "StatusPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  2970
+  '(2919 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SelectAnnotationWidget.java"
+  "SelectAnnotationWidget.java"
+  'java-mode
+  '(abbrev-mode)
+  17445
+  '(15783 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/mobile/MobilePlanesButton.java"
+  "MobilePlanesButton.java"
+  'java-mode
+  '(abbrev-mode)
+  1182
+  '(1182 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/mobile/MobileObjectsButton.java"
+  "MobileObjectsButton.java"
+  'java-mode
+  '(abbrev-mode)
+  4920
+  '(5091 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/spltest.html"
+  "spltest.html"
+  'html-mode
+  '(auto-fill-mode)
+  530
+  '(463 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AbstractSpinner.java"
+  "AbstractSpinner.java"
+  'java-mode
+  '(abbrev-mode)
+  614
+  '(1088 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SelectAnnotationSpinner.java"
+  "SelectAnnotationSpinner.java"
+  'java-mode
+  '(abbrev-mode)
+  3053
+  '(3038 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/SearchObjectMessage.java"
+  "SearchObjectMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  388
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SearchBox.java"
+  "SearchBox.java"
+  'java-mode
+  '(abbrev-mode)
+  2225
+  '(2088 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/Main.gwt.xml"
+  "Main.gwt.xml"
+  'nxml-mode
+  nil
+  263
+  '(1308 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/nbproject/gwt.properties"
+  "gwt.properties"
+  'text-mode
+  '(auto-fill-mode)
+  3028
+  '(746 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHAnnotationSpinnerInfo.java"
+  "SLASHAnnotationSpinnerInfo.java"
+  'java-mode
+  '(abbrev-mode)
+  2380
+  '(9138 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AbstractDialogBox.java"
+  "AbstractDialogBox.java"
+  'java-mode
+  '(abbrev-mode)
+  1098
+  '(1840 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/AbstractWIBPanel.java"
+  "AbstractWIBPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  2451
+  '(3286 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/DefaultWorker/client/CanvasData.java"
+  "CanvasData.java"
+  'java-mode
+  '(abbrev-mode)
+  327
+  '(362 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/InteractionPanelInitializedMessage.java"
+  "InteractionPanelInitializedMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHGeometryWorker/client/SLASHGeometryWorkerReturnData.java"
+  "SLASHGeometryWorkerReturnData.java"
+  'java-mode
+  '(abbrev-mode)
+  1347
+  '(925 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHGeometryWorker/worker/SLASHGeometryWorker.java"
+  "SLASHGeometryWorker.java"
+  'java-mode
+  '(abbrev-mode)
+  5192
+  '(8088 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/renderable/indexed_triangle_mesh/IndexedTriangleMesh.java"
+  "IndexedTriangleMesh.java"
+  'java-mode
+  '(abbrev-mode)
+  2170
+  '(3033 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/debug/Debug.java"
+  "Debug.java"
+  'java-mode
+  '(abbrev-mode)
+  3875
+  '(3802 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/ThreeDRenderingPanel.java"
+  "ThreeDRenderingPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(4494 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "nbproject"
+  'dired-mode
+  nil
+  225
+  '(nil nil)
+  t
+  '("/home/spl/src/java/WIB.old/nbproject/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/renderable/AbstractBufferedRenderable.java"
+  "AbstractBufferedRenderable.java"
+  'java-mode
+  '(abbrev-mode)
+  499
+  '(499 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/renderer/Renderer.java"
+  "Renderer.java"
+  'java-mode
+  '(abbrev-mode)
+  4252
+  '(4251 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/renderable/AbstractRenderable.java"
+  "AbstractRenderable.java"
+  'java-mode
+  '(abbrev-mode)
+  1399
+  '(69 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/renderable/indexed_triangle_mesh/shaders/vertex_shader.vp"
+  "vertex_shader.vp<2>"
+  'text-mode
+  '(auto-fill-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/renderable/indexed_triangle_mesh/shaders/fragment_shader.fp"
+  "fragment_shader.fp<2>"
+  'text-mode
+  '(auto-fill-mode)
+  1613
+  '(243 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/toserver"
+  "toserver"
+  'sh-mode
+  nil
+  413
+  '(105 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AbstractElementSpinner.java"
+  "AbstractElementSpinner.java"
+  'java-mode
+  '(abbrev-mode)
+  2216
+  '(2447 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/WIB.java"
+  "WIB.java"
+  'java-mode
+  '(abbrev-mode)
+  813
+  '(813 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHGeometryWorker/SLASHGeometryWorker.gwt.xml"
+  "SLASHGeometryWorker.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  139
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHWorker/client/SLASHWorkerReturnData.java"
+  "SLASHWorkerReturnData.java"
+  'java-mode
+  '(abbrev-mode)
+  629
+  '(477 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHGeometryWorker/SLASHGeometryWorkerClient.gwt.xml"
+  "SLASHGeometryWorkerClient.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHWorkerManager.java"
+  "SLASHWorkerManager.java"
+  'java-mode
+  '(abbrev-mode)
+  1475
+  '(1419 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHWorker/worker/SLASHWorker.java"
+  "SLASHWorker.java"
+  'java-mode
+  '(abbrev-mode)
+  1067
+  '(1181 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/render3d/renderable/Renderable.java"
+  "Renderable.java"
+  'java-mode
+  '(abbrev-mode)
+  397
+  '(375 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/Transform.java"
+  "Transform.java"
+  'java-mode
+  '(abbrev-mode)
+  1596
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DimensionRequestMessage.java"
+  "DimensionRequestMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  672
+  '(645 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/.ffind"
+  ".ffind"
+  'text-mode
+  '(auto-fill-mode)
+  73
+  '(17 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/ResizableDialogBox.java"
+  "ResizableDialogBox.java"
+  'java-mode
+  '(abbrev-mode)
+  17332
+  '(17281 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/Quaternion.java"
+  "Quaternion.java"
+  'java-mode
+  '(abbrev-mode)
+  10740
+  '(1118 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/DoubleSquareMatrix.java"
+  "DoubleSquareMatrix.java"
+  'java-mode
+  '(abbrev-mode)
+  391
+  '(226 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/AbstractDoubleVector.java"
+  "AbstractDoubleVector.java"
+  'java-mode
+  '(abbrev-mode)
+  1705
+  '(1605 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/core/XTKTransform.java"
+  "XTKTransform.java"
+  'java-mode
+  '(abbrev-mode)
+  1180
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/visualization/XTKRenderer2D.java"
+  "XTKRenderer2D.java"
+  'java-mode
+  '(abbrev-mode)
+  3992
+  '(709 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/visualization/XTKCamera.java"
+  "XTKCamera.java"
+  'java-mode
+  '(abbrev-mode)
+  939
+  '(827 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/objects/XTKObject.java"
+  "XTKObject.java"
+  'java-mode
+  '(abbrev-mode)
+  1676
+  '(2977 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/WIB.css"
+  "WIB.css"
+  'css-mode
+  nil
+  4938
+  '(6178 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AbstractInputDialogBox.java"
+  "AbstractInputDialogBox.java"
+  'java-mode
+  '(abbrev-mode)
+  210
+  '(592 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/InfoDialog.java"
+  "InfoDialog.java"
+  'java-mode
+  '(abbrev-mode)
+  255
+  '(233 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/resources/icons/SelectAnnotationWidgetClientBundle.java"
+  "SelectAnnotationWidgetClientBundle.java"
+  'java-mode
+  '(abbrev-mode)
+  614
+  '(585 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/DragZoomMessageFactory.java"
+  "DragZoomMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(1229 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHInterpolator/worker/SLASHInterpolator.java"
+  "SLASHInterpolator.java"
+  'java-mode
+  '(abbrev-mode)
+  1016
+  '(1144 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHInterpolator/SLASHInterpolator.gwt.xml"
+  "SLASHInterpolator.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  373
+  '(313 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/mode/SLASHDatabaseMode/ElementMap.java"
+  "ElementMap.java"
+  'java-mode
+  '(abbrev-mode)
+  1227
+  '(819 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHWorker/client/SLASHWorkerAnnotation.java"
+  "SLASHWorkerAnnotation.java"
+  'java-mode
+  '(abbrev-mode)
+  18
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHWorker/client/SLASHWorkerPointData.java"
+  "SLASHWorkerPointData.java"
+  'java-mode
+  '(abbrev-mode)
+  572
+  '(568 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHWorker/client/SLASHWorkerPointDataList.java"
+  "SLASHWorkerPointDataList.java"
+  'java-mode
+  '(abbrev-mode)
+  188
+  '(178 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHInterpolator/client/SLASHInterpolatorData.java"
+  "SLASHInterpolatorData.java"
+  'java-mode
+  '(abbrev-mode)
+  504
+  '(655 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/request/HTTPRequest.java"
+  "HTTPRequest.java"
+  'java-mode
+  '(abbrev-mode)
+  393
+  '(362 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHInterpolator/SLASHInterpolatorClient.gwt.xml"
+  "SLASHInterpolatorClient.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  227
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/contour_tracer/ContourTracer.java"
+  "ContourTracer.java"
+  'java-mode
+  '(abbrev-mode)
+  1086
+  '(2296 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/contour_tracer/PCQueue.java"
+  "PCQueue.java"
+  'java-mode
+  '(abbrev-mode)
+  782
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/contour_tracer/TraceElement.java"
+  "TraceElement.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/ZSliderPanel.java"
+  "ZSliderPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(3869 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/ConvexHull.java"
+  "ConvexHull.java"
+  'java-mode
+  '(abbrev-mode)
+  3467
+  '(3875 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/libraries/libspl/contour_tracer.c"
+  "contour_tracer.c"
+  'c-mode
+  '(abbrev-mode)
+  1379
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/libraries/libspl/graphics.c"
+  "graphics.c"
+  'c-mode
+  '(abbrev-mode)
+  1
+  '(8410 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/libraries/libspl/graphics_defs.h"
+  "graphics_defs.h"
+  'c-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/marchingcubes/surfacer/MarchingCubesSurfacer.java"
+  "MarchingCubesSurfacer.java"
+  'java-mode
+  '(abbrev-mode)
+  442
+  '(442 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/smoothers/NoSmoothing.java"
+  "NoSmoothing.java"
+  'java-mode
+  '(abbrev-mode)
+  243
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/smoothers/UnweightedSmoothing.java"
+  "UnweightedSmoothing.java"
+  'java-mode
+  '(abbrev-mode)
+  1066
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/smoothers/WeightedSmoothing.java"
+  "WeightedSmoothing.java"
+  'java-mode
+  '(abbrev-mode)
+  1662
+  '(266 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/marchingcubes/MarchingCubes.java"
+  "MarchingCubes.java"
+  'java-mode
+  '(abbrev-mode)
+  14727
+  '(1790 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/marchingcubes/surfacer/NodeAccessor.java"
+  "NodeAccessor.java"
+  'java-mode
+  '(abbrev-mode)
+  2990
+  '(2248 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/objects/XTKCube.java"
+  "XTKCube.java"
+  'java-mode
+  '(abbrev-mode)
+  3859
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/Annotation.java"
+  "Annotation.java"
+  'java-mode
+  '(abbrev-mode)
+  1268
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/WarpActionsMenu.java"
+  "WarpActionsMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  2916
+  '(4072 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/INCFPlugin/INCFActionsMenu.java"
+  "INCFActionsMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  775
+  '(1415 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AbstractDoubleSpinner.java"
+  "AbstractDoubleSpinner.java"
+  'java-mode
+  '(abbrev-mode)
+  2182
+  '(2120 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/visualization/XTKRenderer3D.java"
+  "XTKRenderer3D.java"
+  'java-mode
+  '(abbrev-mode)
+  1142
+  '(708 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/DefaultWorker/worker/DefaultWorker.java"
+  "DefaultWorker.java"
+  'java-mode
+  '(abbrev-mode)
+  1042
+  '(132 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/FilteredInputBox.java"
+  "FilteredInputBox.java"
+  'java-mode
+  '(abbrev-mode)
+  1372
+  '(1261 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/IntegerMessageInputBox.java"
+  "IntegerMessageInputBox.java"
+  'java-mode
+  '(abbrev-mode)
+  509
+  '(951 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/UpDownArrowButton.java"
+  "UpDownArrowButton.java"
+  'java-mode
+  '(abbrev-mode)
+  3741
+  '(2728 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/resources/icons/SpinnerClientBundle.java"
+  "SpinnerClientBundle.java"
+  'java-mode
+  '(abbrev-mode)
+  441
+  '(345 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/BrightnessBar.java"
+  "BrightnessBar.java"
+  'java-mode
+  '(abbrev-mode)
+  458
+  '(341 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/core/XTKTriplets.java"
+  "XTKTriplets.java"
+  'java-mode
+  '(abbrev-mode)
+  759
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/XTK/visualization/XTKRenderer.java"
+  "XTKRenderer.java"
+  'java-mode
+  '(abbrev-mode)
+  512
+  '(530 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHActionsMenu.java"
+  "SLASHActionsMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  2071
+  '(2062 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/Configuration.java"
+  "Configuration.java"
+  'java-mode
+  '(abbrev-mode)
+  1849
+  '(1849 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/TileDisplayPanel.java"
+  "TileDisplayPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  2190
+  '(7376 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/index.html"
+  "index.html"
+  'html-mode
+  '(auto-fill-mode)
+  281
+  '(194 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/ToolboxMenuItem.java"
+  "ToolboxMenuItem.java"
+  'java-mode
+  '(abbrev-mode)
+  381
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/ToggleDialogMenuItem.java"
+  "ToggleDialogMenuItem.java"
+  'java-mode
+  '(abbrev-mode)
+  1088
+  '(864 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ToggleToolboxStateMessage.java"
+  "ToggleToolboxStateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  156
+  '(156 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ToolboxStateMessage.java"
+  "ToolboxStateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  147
+  '(147 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Interpolator/ParametricXYInterpolation.java"
+  "ParametricXYInterpolation.java"
+  'java-mode
+  '(abbrev-mode)
+  69
+  '(1596 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/bin/package_gwt"
+  "package_gwt"
+  'sh-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/bin/ffind"
+  "ffind"
+  'sh-mode
+  nil
+  1483
+  '(1483 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/marchingcubes/Coordinate.java"
+  "Coordinate.java"
+  'java-mode
+  '(abbrev-mode)
+  488
+  '(488 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/Triplet.java"
+  "Triplet.java"
+  'java-mode
+  '(abbrev-mode)
+  2535
+  '(3033 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/Graphics/Color.java"
+  "Color.java"
+  'java-mode
+  '(abbrev-mode)
+  14763
+  '(14790 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/Double3Vector.java"
+  "Double3Vector.java"
+  'java-mode
+  '(abbrev-mode)
+  693
+  '(494 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/include/quaternion.h"
+  "quaternion.h"
+  'c-mode
+  '(abbrev-mode)
+  2043
+  '(1839 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/LinearAlgebra/Matrix2D.java"
+  "Matrix2D.java"
+  'java-mode
+  '(abbrev-mode)
+  1354
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/CenteredGrid.java"
+  "CenteredGrid.java"
+  'java-mode
+  '(abbrev-mode)
+  420
+  '(1080 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/PreferencesDialog.java"
+  "PreferencesDialog.java"
+  'java-mode
+  '(abbrev-mode)
+  2259
+  '(1085 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SpinnerElement.java"
+  "SpinnerElement.java"
+  'java-mode
+  '(abbrev-mode)
+  574
+  '(561 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AbstractInteractionMessageFactory.java"
+  "AbstractInteractionMessageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  358
+  '(275 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/SpinnerDataInterface.java"
+  "SpinnerDataInterface.java"
+  'java-mode
+  '(abbrev-mode)
+  294
+  '(124 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/messagexref"
+  "messagexref"
+  'awk-mode
+  '(abbrev-mode)
+  151
+  '(131 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/UpdatePlanePositionMessage.java"
+  "UpdatePlanePositionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  254
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/SelectAnnotationMessage.java"
+  "SelectAnnotationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  184
+  '(161 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/DefaultTile.java"
+  "DefaultTile.java"
+  'java-mode
+  '(abbrev-mode)
+  2385
+  '(2353 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/AbstractMenuItem.java"
+  "AbstractMenuItem.java"
+  'java-mode
+  '(abbrev-mode)
+  520
+  '(380 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/nbproject/gwt.properties"
+  "gwt.properties<2>"
+  'text-mode
+  '(auto-fill-mode)
+  106
+  '(105 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/ToolsMenu.java"
+  "ToolsMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  2486
+  '(2486 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/menu/WIBMenuBar.java"
+  "WIBMenuBar.java"
+  'java-mode
+  '(abbrev-mode)
+  2216
+  '(2087 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/HelpMenu.java"
+  "HelpMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  428
+  '(427 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/ActionRadioMenuItem.java"
+  "ActionRadioMenuItem.java"
+  'java-mode
+  '(abbrev-mode)
+  551
+  '(640 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/menu/AbstractRadioMenuItem.java"
+  "AbstractRadioMenuItem.java"
+  'java-mode
+  '(abbrev-mode)
+  1023
+  '(992 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/AbstractActionRadioMenuItem.java"
+  "AbstractActionRadioMenuItem.java"
+  'java-mode
+  '(abbrev-mode)
+  597
+  '(1013 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/image/AbstractTile.java"
+  "AbstractTile.java"
+  'java-mode
+  '(abbrev-mode)
+  1809
+  '(1322 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/toolbox/AbstractTool.java"
+  "AbstractTool.java"
+  'java-mode
+  '(abbrev-mode)
+  696
+  '(375 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/toolbox/RadioTool.java"
+  "RadioTool.java"
+  'java-mode
+  '(abbrev-mode)
+  1120
+  '(1120 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/toolbox/ActionTool.java"
+  "ActionTool.java"
+  'java-mode
+  '(abbrev-mode)
+  329
+  '(389 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/SliderHorizontal.java"
+  "SliderHorizontal.java"
+  'java-mode
+  '(abbrev-mode)
+  2657
+  '(1326 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/image/AbstractThumbnail.java"
+  "AbstractThumbnail.java"
+  'java-mode
+  '(abbrev-mode)
+  344
+  '(93 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/message/MessageData.java"
+  "MessageData.java"
+  'java-mode
+  '(abbrev-mode)
+  1718
+  '(740 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/message/MessageListener.java"
+  "MessageListener.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/TimestepBar.java"
+  "TimestepBar.java"
+  'java-mode
+  '(abbrev-mode)
+  21
+  '(21 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/TransientVectorOverlayPanel.java"
+  "TransientVectorOverlayPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/ControlsPanel.java"
+  "ControlsPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/InformationPanel.java"
+  "InformationPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/CursorOverlayPanel.java"
+  "CursorOverlayPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1849
+  '(1811 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/AbstractCanvasPanel.java"
+  "AbstractCanvasPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/DrawingPanel.java"
+  "DrawingPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/ImageOverlayPanel.java"
+  "ImageOverlayPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/EditingPanel.java"
+  "EditingPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1297
+  '(1889 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/panel/ApplicationVectorPanel.java"
+  "ApplicationVectorPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  858
+  '(2896 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/request/AbstractXMLRequestCallback.java"
+  "AbstractXMLRequestCallback.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/request/AbstractRequestCallback.java"
+  "AbstractRequestCallback.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/KeyData.java"
+  "KeyData.java"
+  'java-mode
+  '(abbrev-mode)
+  715
+  '(693 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/ContrastBar.java"
+  "ContrastBar.java"
+  'java-mode
+  '(abbrev-mode)
+  488
+  '(150 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/drawable/ScaleFactor.java"
+  "ScaleFactor.java"
+  'java-mode
+  '(abbrev-mode)
+  1125
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/drawable/Point.java"
+  "Point.java"
+  'java-mode
+  '(abbrev-mode)
+  2004
+  '(1434 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/AcceptCancelHandler.java"
+  "AcceptCancelHandler.java"
+  'java-mode
+  '(abbrev-mode)
+  320
+  '(319 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/SliderValueUpdateHandler.java"
+  "SliderValueUpdateHandler.java"
+  'java-mode
+  '(abbrev-mode)
+  146
+  '(53 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/SliderValueUpdateEvent.java"
+  "SliderValueUpdateEvent.java"
+  'java-mode
+  '(abbrev-mode)
+  565
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/HorizontalSliderBar.java"
+  "HorizontalSliderBar.java"
+  'java-mode
+  '(abbrev-mode)
+  2388
+  '(2210 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/ColorButton.java"
+  "ColorButton.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/ColorPickerBox.java"
+  "ColorPickerBox.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/menu/StateChangeMessageCommand.java"
+  "StateChangeMessageCommand.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/menu/SelectorInterface.java"
+  "SelectorInterface.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/menu/StateChangeMenuItem.java"
+  "StateChangeMenuItem.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/ColorPickerHandler.java"
+  "ColorPickerHandler.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/TraceFactory.java"
+  "TraceFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/exception/ConfigurationException.java"
+  "ConfigurationException.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DimensionsMessage.java"
+  "DimensionsMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ImageLoadCompleteMessage.java"
+  "ImageLoadCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ImpededModeMessage.java"
+  "ImpededModeMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/UpdateCursorOverlayMessage.java"
+  "UpdateCursorOverlayMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DrawSetupMessage.java"
+  "DrawSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ContrastMessage.java"
+  "ContrastMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  128
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ContourDataMessage.java"
+  "ContourDataMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ParameterUpdateMessage.java"
+  "ParameterUpdateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1671
+  '(2563 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetTraceFactoryMessage.java"
+  "SetTraceFactoryMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetInteractionFactoryMessage.java"
+  "SetInteractionFactoryMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetPlaneSliderPositionMessage.java"
+  "SetPlaneSliderPositionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DragSetupMessage.java"
+  "DragSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetDrawColorMessage.java"
+  "SetDrawColorMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/RedrawMessage.java"
+  "RedrawMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetZoomBarDeltaMessage.java"
+  "SetZoomBarDeltaMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DisplayInitMessage.java"
+  "DisplayInitMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  707
+  '(619 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ImageLoadStartMessage.java"
+  "ImageLoadStartMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ZoomInMessage.java"
+  "ZoomInMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/InformationMessage.java"
+  "InformationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/MousePositionMessage.java"
+  "MousePositionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  180
+  '(180 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetEditColorMessage.java"
+  "SetEditColorMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ClearTransientVectorOverlayMessage.java"
+  "ClearTransientVectorOverlayMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ZoomMessage.java"
+  "ZoomMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  329
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ToggleBlueChannelMessage.java"
+  "ToggleBlueChannelMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DrawCompleteMessage.java"
+  "DrawCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/RequestPopupMenuMessage.java"
+  "RequestPopupMenuMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  658
+  '(595 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/GetDisplayListMessage.java"
+  "GetDisplayListMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  211
+  '(84 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetCursorMessage.java"
+  "SetCursorMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetQuaternionMessage.java"
+  "SetQuaternionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetTransientVectorOverlayLineWidthMessage.java"
+  "SetTransientVectorOverlayLineWidthMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetZoomBarMessage.java"
+  "SetZoomBarMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/InitializeTimestepMessage.java"
+  "InitializeTimestepMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetOriginMessage.java"
+  "SetOriginMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  133
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ShowInfoMessage.java"
+  "ShowInfoMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DragMessage.java"
+  "DragMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/UpdateViewMessage.java"
+  "UpdateViewMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ToggleContrastMessage.java"
+  "ToggleContrastMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/UpdateOriginMessage.java"
+  "UpdateOriginMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DisableDrawingMessage.java"
+  "DisableDrawingMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/EditMessage.java"
+  "EditMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetActionButtonListenerMessage.java"
+  "SetActionButtonListenerMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  176
+  '(146 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/GetRGBMapMessage.java"
+  "GetRGBMapMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  913
+  '(1008 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DrawMessage.java"
+  "DrawMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ToggleRedChannelMessage.java"
+  "ToggleRedChannelMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  206
+  '(206 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/RenderRequestMessage.java"
+  "RenderRequestMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/EnableCursorOverlayMessage.java"
+  "EnableCursorOverlayMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/StatusMessage.java"
+  "StatusMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/TimestepMessage.java"
+  "TimestepMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ZoomParametersMessage.java"
+  "ZoomParametersMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  815
+  '(1026 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DeleteZSliderPanelMessage.java"
+  "DeleteZSliderPanelMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DragCompleteMessage.java"
+  "DragCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/EnableDrawingMessage.java"
+  "EnableDrawingMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/EditCompleteMessage.java"
+  "EditCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ClearCursorOverlayMessage.java"
+  "ClearCursorOverlayMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ToggleGreenChannelMessage.java"
+  "ToggleGreenChannelMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/BrightnessMessage.java"
+  "BrightnessMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  177
+  '(58 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/RGBChannelMapMessage.java"
+  "RGBChannelMapMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/CollaborateMessage.java"
+  "CollaborateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/EditSetupMessage.java"
+  "EditSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/RenderTransientVectorOverlayMessage.java"
+  "RenderTransientVectorOverlayMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/BumpZoomMessage.java"
+  "BumpZoomMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/SetZoomBarMaxMessage.java"
+  "SetZoomBarMaxMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  157
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/InitializePlaneMessage.java"
+  "InitializePlaneMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/LoadMessage.java"
+  "LoadMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/AutoContrastMessage.java"
+  "AutoContrastMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  226
+  '(96 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/ResetMessage.java"
+  "ResetMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/messages/DragActivationMessage.java"
+  "DragActivationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/AbstractActionsMenu.java"
+  "AbstractActionsMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  252
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/menus/AbstractImageMenu.java"
+  "AbstractImageMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/mode/AbstractSLASHModeHandler.java"
+  "AbstractSLASHModeHandler.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHImageFactory.java"
+  "SLASHImageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  729
+  '(57 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/BumpNudgeRadiusMessage.java"
+  "BumpNudgeRadiusMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/AddTraceSelectSetupMessage.java"
+  "AddTraceSelectSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/AddTraceSelectCompleteMessage.java"
+  "AddTraceSelectCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/AnnotationMessage.java"
+  "AnnotationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  415
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteObjectSetupMessage.java"
+  "DeleteObjectSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DrawMultitracePolylineSetupMessage.java"
+  "DrawMultitracePolylineSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/ProcessContoursMessage.java"
+  "ProcessContoursMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/SetNudgeRadiusMessage.java"
+  "SetNudgeRadiusMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/ValidateEditSelectionMessage.java"
+  "ValidateEditSelectionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/AnnotationEditRequestMessage.java"
+  "AnnotationEditRequestMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteObjectCompleteMessage.java"
+  "DeleteObjectCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/EditActivationMessage.java"
+  "EditActivationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/EnableRedoMessage.java"
+  "EnableRedoMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/SetEditNudgeModeMessage.java"
+  "SetEditNudgeModeMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/ContourEditCompleteMessage.java"
+  "ContourEditCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/AnnotationDataMessage.java"
+  "AnnotationDataMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/RevertToImageManagerMessage.java"
+  "RevertToImageManagerMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteMotionMessage.java"
+  "DeleteMotionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DisableUndoMessage.java"
+  "DisableUndoMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/ClearEditSelectionMessage.java"
+  "ClearEditSelectionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/SetEditPullModeMessage.java"
+  "SetEditPullModeMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteTraceSetupMessage.java"
+  "DeleteTraceSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/SLASHModeHandlerReadyMessage.java"
+  "SLASHModeHandlerReadyMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DisableRedoMessage.java"
+  "DisableRedoMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteTraceActivationMessage.java"
+  "DeleteTraceActivationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/ContourEditMotionMessage.java"
+  "ContourEditMotionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/ContourEditSetupMessage.java"
+  "ContourEditSetupMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/AnnotationUpdateMessage.java"
+  "AnnotationUpdateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/RedoMessage.java"
+  "RedoMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteContourMessage.java"
+  "DeleteContourMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  177
+  '(177 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/RemoveGeometryMessage.java"
+  "RemoveGeometryMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteObjectActivationMessage.java"
+  "DeleteObjectActivationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/AddTraceSelectMotionMessage.java"
+  "AddTraceSelectMotionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/UndoMessage.java"
+  "UndoMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/EditModeSelectionMessage.java"
+  "EditModeSelectionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DeleteTraceCompleteMessage.java"
+  "DeleteTraceCompleteMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/EnableUndoMessage.java"
+  "EnableUndoMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/DrawMultitraceContourActivationMessage.java"
+  "DrawMultitraceContourActivationMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/SelectContourMessage.java"
+  "SelectContourMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHControlsPanel.java"
+  "SLASHControlsPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  240
+  '(240 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHTile.java"
+  "SLASHTile.java"
+  'java-mode
+  '(abbrev-mode)
+  848
+  '(844 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHThumbnail.java"
+  "SLASHThumbnail.java"
+  'java-mode
+  '(abbrev-mode)
+  487
+  '(1079 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/SLASHImageMenu.java"
+  "SLASHImageMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/ModeHandlerInterface.java"
+  "ModeHandlerInterface.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/DefaultThumbnail.java"
+  "DefaultThumbnail.java"
+  'java-mode
+  '(abbrev-mode)
+  290
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/DefaultImageMenu.java"
+  "DefaultImageMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/DefaultTileWorkerListener.java"
+  "DefaultTileWorkerListener.java"
+  'java-mode
+  '(abbrev-mode)
+  1322
+  '(1252 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/messages/DefaultTileWorkerMessage.java"
+  "DefaultTileWorkerMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/DefaultPlugin.java"
+  "DefaultPlugin.java"
+  'java-mode
+  '(abbrev-mode)
+  1358
+  '(5750 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/DefaultControlsPanel.java"
+  "DefaultControlsPanel.java"
+  'java-mode
+  '(abbrev-mode)
+  1048
+  '(916 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/DefaultPlugin/DefaultImageFactory.java"
+  "DefaultImageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  1347
+  '(1849 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/INCFPlugin/SRSTransform.java"
+  "SRSTransform.java"
+  'java-mode
+  '(abbrev-mode)
+  259
+  '(247 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/INCFPlugin/Overlay.java"
+  "Overlay.java"
+  'java-mode
+  '(abbrev-mode)
+  596
+  '(501 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/INCFPlugin/INCFPlugin.java"
+  "INCFPlugin.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(13281 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/INCFPlugin/messages/QueryMessage.java"
+  "QueryMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/INCFPlugin/Star.java"
+  "Star.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(809 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/AnnotationPlugin/AnnotationPlugin.java"
+  "AnnotationPlugin.java"
+  'java-mode
+  '(abbrev-mode)
+  69
+  '(279 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/Square.java"
+  "Square.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/Mark.java"
+  "Mark.java"
+  'java-mode
+  '(abbrev-mode)
+  432
+  '(1896 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/WarpImageFactory.java"
+  "WarpImageFactory.java"
+  'java-mode
+  '(abbrev-mode)
+  1461
+  '(1461 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/WarpPlugin.java"
+  "WarpPlugin.java"
+  'java-mode
+  '(abbrev-mode)
+  3268
+  '(17771 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/CompleteAddMarkMessage.java"
+  "CompleteAddMarkMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/CompleteSelectCandidateMessage.java"
+  "CompleteSelectCandidateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/DrawSelectCandidateMessage.java"
+  "DrawSelectCandidateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/CompleteAddCandidateMessage.java"
+  "CompleteAddCandidateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/ImageSelectionMessage.java"
+  "ImageSelectionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/StartSelectCandidateMessage.java"
+  "StartSelectCandidateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/CompleteEditMarkMessage.java"
+  "CompleteEditMarkMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/EnableCandidateOptionsMessage.java"
+  "EnableCandidateOptionsMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/StartAddMarkMessage.java"
+  "StartAddMarkMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/EnableAddMarkOptionMessage.java"
+  "EnableAddMarkOptionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/SelectEditMarkMessage.java"
+  "SelectEditMarkMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/DeleteMarkMessage.java"
+  "DeleteMarkMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/ImageNameSelectionMessage.java"
+  "ImageNameSelectionMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/DragAddMarkMessage.java"
+  "DragAddMarkMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/DragEditMarkMessage.java"
+  "DragEditMarkMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/GenerateWarpMessage.java"
+  "GenerateWarpMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/DrawAddCandidateMessage.java"
+  "DrawAddCandidateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/StartAddCandidateMessage.java"
+  "StartAddCandidateMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/messages/EnableMarkDependentMessage.java"
+  "EnableMarkDependentMessage.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/WarpViewMenu.java"
+  "WarpViewMenu.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Element.java"
+  "Element.java"
+  'java-mode
+  '(abbrev-mode)
+  3156
+  '(3392 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/ElementReader.java"
+  "ElementReader.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(237 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/ElementBuffer.java"
+  "ElementBuffer.java"
+  'java-mode
+  '(abbrev-mode)
+  39
+  '(480 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHWorker/SLASHWorker.gwt.xml"
+  "SLASHWorker.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  182
+  '(163 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Stream.java"
+  "Stream.java"
+  'java-mode
+  '(abbrev-mode)
+  140
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/SAXBuilder.java"
+  "SAXBuilder.java"
+  'java-mode
+  '(abbrev-mode)
+  505
+  '(468 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML/Comment.java"
+  "Comment.java"
+  'java-mode
+  '(abbrev-mode)
+  1725
+  '(1725 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/GWTspl/src/java/edu/ucsd/ncmir/spl/MiniXML.gwt.xml"
+  "MiniXML.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  358
+  '(374 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/SLASHWorker/SLASHWorkerClient.gwt.xml"
+  "SLASHWorkerClient.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  187
+  '(138 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/bin/netbeans_browser_wrapper"
+  "netbeans_browser_wrapper"
+  'sh-mode
+  nil
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/DefaultWorker/DefaultWorker.gwt.xml"
+  "DefaultWorker.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  137
+  '(137 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/DefaultWorker/DefaultWorkerClient.gwt.xml"
+  "DefaultWorkerClient.gwt.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  137
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/WIBHelp.html"
+  "WIBHelp.html"
+  'html-mode
+  '(auto-fill-mode)
+  1
+  '(21053 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/WEB-INF/cgi/SLASHlink.pl"
+  "SLASHlink.pl"
+  'perl-mode
+  nil
+  130
+  '(130 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/WEB-INF/cgi/aieee.cgi"
+  "aieee.cgi"
+  'text-mode
+  '(auto-fill-mode)
+  199
+  '(46 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/WarpPlugin/add_mark.xml"
+  "add_mark.xml"
+  'sgml-mode
+  '(auto-fill-mode)
+  135
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/WEB-INF/cgi/warp.pl"
+  "warp.pl"
+  'perl-mode
+  nil
+  118
+  '(88 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/.ssh/known_hosts"
+  "known_hosts"
+  'text-mode
+  '(auto-fill-mode)
+  22431
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "icons"
+  'dired-mode
+  nil
+  271
+  '(nil nil)
+  t
+  '("/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/core/components/resources/icons/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "messages"
+  'dired-mode
+  nil
+  889
+  '(nil nil)
+  t
+  '("/home/spl/src/java/WIB/src/java/edu/ucsd/ncmir/WIB/client/plugins/SLASHPlugin/messages/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/WIB/web/WEB-INF/cgi/Loader.pl"
+  "Loader.pl"
+  'perl-mode
+  nil
+  822
+  '(1 t)
+  nil
+  nil
+  '((buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/JAWS/src/java/edu/ucsd/ncmir/JAWS/client/DisplayCanvas.java"
+  "DisplayCanvas.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(1227 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/spl/src/java/JAWS/src/java/edu/ucsd/ncmir/JAWS/client/ThinPlateSplineWarpCommand.java"
+  "ThinPlateSplineWarpCommand.java"
+  'java-mode
+  '(abbrev-mode)
+  1
+  '(164 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+

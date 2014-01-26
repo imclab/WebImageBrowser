@@ -1,0 +1,354 @@
+/*
+    Document   : WIB
+    Created on : Oct 30, 2012
+    Author     : spl
+    Description: Styles for WIB
+*/
+
+.body {
+
+    background-color: #329fd7;
+
+}
+
+.WIB-controls {
+
+    border: none;
+    background: rgba(255,255,255,0.50);
+    background-color: rgba(255,255,255,0.50);
+
+}
+
+.StatusButton {
+    font-weight: bold;
+    color: black;
+}
+
+.gwt-MenuBar
+{
+
+    color: black;
+    
+    background-color: rgba( 110, 215, 93, 0.5 );
+    font-weight: bold;
+
+}
+
+.gwt-MenuBar .gwt-MenuItem-selected {
+    background-color: rgba( 110, 215, 93, 1.0 );
+}
+
+.gwt-MenuBarPopup .menuPopupTopLeft {
+  background: none;
+  -background: none;
+}
+.gwt-MenuBarPopup .menuPopupTopRight {
+  background: none;
+  -background: none;
+}
+.gwt-MenuBarPopup .menuPopupBottomLeft {
+  background: none;
+  -background: none;
+}
+.gwt-MenuBarPopup .menuPopupBottomRight {
+  background: none;
+  -background: none;
+}
+
+.gwt-MenuBarPopup .menuPopupTopCenter {
+  background: none;
+}
+.gwt-MenuBarPopup .menuPopupBottomCenter {
+  background: none;
+  -background: none;
+}
+.gwt-MenuBarPopup .menuPopupMiddleLeft {
+  background: none;
+  -background: none;
+}
+.gwt-MenuBarPopup .menuPopupMiddleRight {
+  background: none;
+  -background: none;
+}
+
+.gwt-Button {
+
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.gwt-CheckBox {
+
+    font-weight: bold;
+    font-size: 12px;
+
+}
+.gwt-MenuBar-vertical .gwt-MenuItem {
+
+    padding: 1px 14px 1px 1px;
+
+}
+
+.WIB-menu
+{
+
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.FilteredInputBox {
+    border: 1px solid black;
+    -webkit-box-shadow: 0px 0px 0px 0px;
+    -moz-box-shadow: 0px 0px 0px 0px; 
+    box-shadow: 0px 0px 0px 0px;
+}
+
+.WIB-menu-disabled
+{
+
+    color: rgba( 0, 0, 0, 0.50 );
+
+}
+
+.WIB-status {
+    font:14px Arial,sans-serif;
+    font-weight: bold;
+    color: black;
+
+}
+
+.WIB-misc-status {
+
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #dddddd;
+    color: black;
+
+}
+
+.WIB-status-panel {
+
+    background-color: #cccccc;
+
+}
+
+.WIB-input {
+
+    border: none;
+
+}
+
+.WIB-PlaneSlider
+{
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.gwt-Label
+{
+    border: 5px solid transparent;
+    display: inline-block;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 12px;
+    color: #000000;
+}
+
+h1
+{
+    text-align: center
+}
+
+.url
+{
+    text-align: center
+}
+
+h2
+{
+    text-align: center
+}
+
+IMG.logo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.strike
+{
+    text-decoration: line-through
+}
+
+.gwt-DialogBox .dialogMiddleCenter {
+
+    background-color: rgba( 110, 215, 93, 0.5 );
+    
+}
+
+/*******************************************************************************
+ * Default CSS for the clazzes.org gwt-extras Project
+ *
+ * defines default values for all widgets in this project.
+ ******************************************************************************/
+
+.gwt-drag-hint {
+	color: grey;
+	border: 1px solid black;
+}
+
+.gwt-extras-search {
+  color: black;
+  font-style: normal;
+}
+	
+.gwt-extras-search-hint {
+  color: silver;
+  font-style: italic;
+}
+
+.gwt-extras-search-suggest {
+  background-color: white;
+  border: 1px solid black;
+}
+
+.gwt-extras-search-suggest .item {
+  color: black;
+  font-style: normal;
+}
+
+.gwt-extras-search-suggest .item-selected {
+  color: black;
+  background-color: silver;
+  font-weight: bold;
+}
+
+.gwt-extras-input {
+  background-color: white;
+}
+
+.gwt-extras-input-invalid {
+  background-color: #FFADAD;
+  border-color: red;
+}
+
+.gwt-extras-InputBox {
+  background-color: white;
+}
+
+.gwt-extras-InputBox-invalid {
+  background-color: #FFADAD;
+  border-color: red;
+}
+
+.gwt-extras-Spinbox {
+  border: 0;
+}
+
+table .gwt-extras-Spinbox, table .gwt-extras-Spinbox th, table .gwt-extras-Spinbox td {
+  border: none;
+  border-collapse: collapse;
+  border-spacing: 0px;
+  padding: 0;
+  margin:0;
+}
+
+a.gwt-extras-Spinbox-button {
+  display: block;
+  padding: 0;
+  width: 1em;
+  margin: 0;
+  cursor: pointer;
+  background: buttonface;
+  text-decoration: none;
+  font-size: 0.65em;
+  text-align: center;
+  vertical-align: middle;
+}
+
+a.gwt-extras-Spinbox-button:link, a.gwt-extras-Spinbox-button:hover, a.gwt-extras-Spinbox-button:visited {
+  color: black;
+  border: outset 1.5px buttonface;
+}
+
+a.gwt-extras-Spinbox-button:active {
+  color: black;
+  border: inset 1.5px buttonface;
+}
+
+
+.gwt-extras-DisclosurePopout-popout {
+  background-color: white;
+  border: solid 1px black;
+}
+
+.gwt-extras-DisclosurePopout-header {
+  background-color: white;
+  padding: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gwt-extras-WindowBox .dialogMiddleCenter {
+  padding: 0px !important;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-container {
+  position: relative;  
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls {
+  position: absolute;
+  top: -22px;
+  right: 2px;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a {
+  cursor: pointer;
+  display: block;
+  height: 12px;
+  width: 12px;  
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a.gwt-extras-dialog-close {
+  background: transparent url(x-2panel.png) left top no-repeat;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a.gwt-extras-dialog-close:hover {
+  background: transparent url(x-2panel.png) right top no-repeat;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a.gwt-extras-dialog-minimize {
+  /*display: block;
+  height: 12px;
+  width: 12px;*/  
+  background: transparent url(min-4panel.png) left top no-repeat;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a.gwt-extras-dialog-minimize:hover {
+  /*display: block;
+  height: 12px;
+  width: 12px;*/  
+  background: transparent url(min-4panel.png) left top no-repeat;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a.gwt-extras-dialog-minimize:hover {
+  background: transparent url(min-4panel.png) right top no-repeat;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a.gwt-extras-dialog-maximize {
+  /*display: block;
+  height: 12px;
+  width: 12px;*/  
+  background: transparent url(min-4panel.png) left bottom no-repeat;
+}
+
+.gwt-extras-WindowBox .gwt-extras-dialog-controls a.gwt-extras-dialog-maximize:hover {
+  background: transparent url(min-4panel.png) right bottom no-repeat;
+}

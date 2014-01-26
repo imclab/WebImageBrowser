@@ -1,0 +1,31 @@
+#!/bin/tcsh -f
+
+if ( ! -d /home/spl/src/java/WIB/dist/javadoc ) then
+
+    ant javadoc
+
+endif
+
+if ( ! -d /home/spl/src/java/WIB/build/web ) then
+
+    ant dist
+
+endif
+
+ssh tirebiter.ucsd.edu "rm -rf /var/www/html/WebImageBrowser/edu.ucsd.ncmir.*"
+ssh tirebiter.ucsd.edu "rm -rf /var/www/html/WebImageBrowser/javadoc"
+
+set here = `pwd`
+
+cd build/web
+
+tar cvfz ${here}/upload.tgz \
+    edu.ucsd.ncmir.* \
+    *.png \
+    WIB.css \
+    *.html \
+    resources \
+    -C /home/spl/src/java/WIB/dist \
+    javadoc
+
+cat ${here}/upload.tgz | ssh tirebiter.ucsd.edu "cd /var/www/html/WebImageBrowser ; tar xfz -"

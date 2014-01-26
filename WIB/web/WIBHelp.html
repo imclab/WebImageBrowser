@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Image Browser Version 3 Help</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <img src="resources/images/wib3-logo.png" style="float:right;margin:5px">
+        <H1>Web Image Browser Version 3 Help</H1>
+        <ul>
+            <li><a href="#User_Interface">User Interface</a>
+                <ul>
+                    <li><a href="#Basic_User_Interface">Basic User Interface</a>
+                        <ul>
+                            <li><a href="#Image_Menu">Image Menu</a></li>
+                            <li><a href="#Tools_Menu">Tools Menu</a></li>
+                            <li><a href="#Help_Menu">Help Menu</a></li>
+                            <li><a href="#Image_Controls">Image Controls</a></li>
+                            <li><a href="#Z_Slider">Z Slider</a></li>
+                        </ul></li>
+                    <li><a href="#SLASH_Plugin_User_Interface">SLASH Plugin User Interface</a>
+                        <ul>
+                            <li><a href="#Actions_Menu">Actions Menu</a></li>
+                        </ul></li>
+                </ul></li>
+            <li><a href="#Optimization">Optimization</a></li>
+        </ul>
+        <table>
+            <tr>
+                <td>
+                    <h2 id=User_Interface>User Interface</h2>
+                    <p>
+                        The <b><i>Version 3</i></b> <b>Web Image Browser</b> user interface is fairly
+                        similar to that of <b><i>Version 2</i></b> with some alteration of
+                        position of controls, <i>etc</i>.
+                    </p>
+                    <table>
+                        <tr>
+                            <td>
+                                <h3 id=Basic_User_Interface>Basic User Interface</h3>
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <img src="resources/images/ImageMenu.png" style="float:right;margin:5px">
+                                            <h4 id=Image_Menu>Image Menu</h4>
+                                            <p>
+                                                To flip the contrast (reversing black for white), pull down
+                                                the <i>Image</i> menu and select the <i>Contrast Flipped</i> item.
+                                                Deselecting this item restores contrast to normal.
+                                            </p>
+                                            <p>
+                                                Color channels may be turned on or off by pulling down
+                                                the <i>Image</i> menu and mousing down to <i>Color Channels</i> and
+                                                checking or unchecking the <i>Red</i>, <i>Green</i>,
+                                                and/or <i>Blue</i> items from the cascading menu.
+                                            </p>
+                                            <p>
+                                                To restore all settings to default, pull down the <i>Image</i> menu
+                                                and select <i>Reset</i>.
+                                            </p>
+                                            <p>
+                                                Note that when using some plugins,
+                                                specifically <a href="#SLASH_Plugin_User_Interface"><b>SLASH</b> (see
+                                                    below)</a>, not all of these functions may be available.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img src="resources/images/ToolsMenu.png" style="float:right;margin:5px">
+                                            <h4 id=Tools_Menu>Tools Menu</h4>
+                                            <p>
+                                                <img src="resources/images/Info.png" style="float:left;margin:5px">
+                                                To get basic information about the image or volume being displayed,
+                                                pull down the <i>Tools</i> menu and select the <i>Show Info</i> menu
+                                                item.  This will pop up a small box containing the dimensions of the
+                                                image and, optionally, depending upon the plugin being used, other
+                                                relevant information.  The box may be repositioned by grabbing its
+                                                title bar with the mouse and dragging it in the standard manner.  To
+                                                dismiss the box, simply click anywhere on the web page outside of the
+                                                box.
+                                            </p>
+                                            <p>
+                                                The <i>Collaborate</i> option is currently unimplemented.  Selecting
+                                                it does nothing.
+                                            </p>
+                                            <p>
+                                                <img src="resources/images/Preferences.png" style="float:right;margin:5px">
+                                                Users may alter the <i>Background Color</i> and <i>Timeout</i>
+                                                threshold by pulling down the <i>Tools</i> menu and selecting
+                                                the <i>Preferences</i> item.  A dialog box will appear.  To save
+                                                changes, click the <b>Accept</b> button.  To forget changes,
+                                                click <b>Cancel</b>.
+                                            </p>
+                                            <p>
+                                                <img src="resources/images/ColorChooser.png" style="float:left;margin:5px">
+                                                To change the background color, click the colored <b>Select</b> button
+                                                adjacent to the label <i>Background Color</i>.  A <i>Color Chooser</i>
+                                                dialog will appear in which you may alter the color by either dragging
+                                                the circle in the color field, dragging the slider next to the color
+                                                field, or by directly entering values either as <b>HSV</b>
+                                                or <b>RGB</b> triples or a hexadecimal value for the seriously
+                                                hardcore color enthusiast.
+                                            </p>
+                                            <p>
+                                                Clicking <b>Accept</b> accepts the value and sets the <b>Select</b>
+                                                button background in the <i>Preferences</i> dialog.
+                                                Clicking <b>Cancel</b> closes the <i>Color Chooser</i> dialog without
+                                                making the alteration.
+                                                In neither case is the color selection applied until
+                                                the <i>Preferences</i> dialog is closed with the <b>Accept</b> button.
+                                            </p>
+                                            <p>
+                                                <b>WIB 3</b> makes use of <i>Cookies</i> to save preferences between
+                                                sessions.  If you use the <i>Cookie Management</i> features of your
+                                                browser, you may need to set appropriate exceptions.  It is beyond the
+                                                scope of this <i>Help</i> document to provide guidance in doing so,
+                                                since these settings are browser-dependent, but they are usually made
+                                                on a <i>hostname</i> basis.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img src="resources/images/HelpMenu.png" style="float:right;margin:5px">
+                                            <h4 id=Help_Menu>Help Menu</h4>
+                                            <p>
+                                                To view this page, pull down the <i>Help</i> menu item and
+                                                select <i>Manual</i>.
+                                            </p>
+                                            <p>
+                                                To view the &quot;About&quot; information (author,
+                                                copyright, <i>etc</i>.) pull down <i>Help</i> menu item and
+                                                select <i>About</i>.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img src="resources/images/Controls.png" style="float:right;margin:5px">
+                                            <h4 id=Image_Controls>Image Controls</h4>
+                                            <p>
+                                                There is a set of <i>Image Controls</i> at the right hand side of the
+                                                image display area.
+                                            </p>
+                                            <p>
+                                                To control the magnification of the image, manipulate the slider
+                                                marked <i>Zoom</i>.  Under most plugins, the <i>Zoom</i>
+                                                is <i>continuously variable</i>, that is, the magnification is not
+                                                limited to powers of two up to <b>2x</b>.  Under the <b>SLASH</b>
+                                                plugin, only powers of two are available and the maximum magnification
+                                                is <i>1x</i>.
+                                                Clicking the <b>+</b> and <b>-</b> arrow buttons raises the
+                                                magnification by twice or lowers it by half, respectively.
+                                            </p>
+                                            <p>
+                                                The brightness of the image may be changed by manipulating
+                                                the <i>Brightness</i> slider.
+                                                Clicking the <b>+</b> and <b>-</b> arrow buttons incrementally raises
+                                                and lowers brightness by one twentieth of the total range,
+                                                respectively.
+                                            </p>
+                                            <p>
+                                                The contrast of the image may be changed by manipulating
+                                                the <i>Contrast</i> slider.  Clicking the <b>+</b> and <b>-</b> arrow
+                                                buttons incrementally raises and lowers contrast by one twentieth of
+                                                the total range, respectively.
+                                            </p>
+                                            <p>
+                                                The <i>Brightness</i> and <i>Contrast</i> controls are not available
+                                                when using the <b>SLASH</b> plugin.
+                                            </p>
+                                            <p>
+                                                These values will be retained in <i>Cookies</i> between sessions on a
+                                                per-dataset basis and restored when the user returns to dataset.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <h4 id=Z_Slider>Z Slider</h4>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img src="resources/images/ZSlider.png" style="float:left;margin:5px">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p>
+                                                If the dataset being viewed is part of a volume, a <i>Z Slider</i>
+                                                will be positioned at the bottom of the image display area.
+                                                The <b>Z</b> depth may be manipulated by moving the slider, by
+                                                clicking the <b>+</b> and <b>-</b> arrow buttons to adjust by plus or
+                                                minus one plane, or by typing a numeric value in the box at the right
+                                                hand side of the slider.
+                                            </p>
+                                            <p>
+                                                The depth will be retained in <i>Cookies</i> between sessions on a
+                                                per-dataset basis and restored when the user returns to dataset.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </table>
+                        <tr>
+                            <td>
+                                <h3 id=SLASH_Plugin_User_Interface>SLASH Plugin User Interface</h3>
+                                <img src="resources/images/SLASHActions.png" style="float:right;margin:5px">
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <h4 id=Actions_Menu>Actions Menu</h4>
+                                            <p>
+                                                To move the image, pull down the <i>Actions</i> menu and
+                                                select <i>Move</i>.
+                                                Then click on the image and, holding down the mouse button, drag the
+                                                image to the desired position in the standard manner.  Releasing the
+                                                mouse button completes the operation.
+                                                <b>Note:</b> the move mode may also be initiated at any time under any
+                                                other <i>Action</i> mode by pressing and holding the <b>Shift</b> key
+                                                on the keyboard and dragging the image as described above.  Releasing
+                                                the <b>Shift</b> key restores the mode to its previous state.
+                                            </p>
+                                            <p>
+                                                To draw a closed contour, pull down <i>Actions</i> and select <i>Draw
+                                                    Object</i>.  Pressing the mouse button will start a drawing operation
+                                                in the usual manner.  Releasing the mouse button completes the
+                                                contour.
+                                            </p>
+                                            <img src="resources/images/SLASHAnnotation.png" style="float:left;margin:5px">
+                                            <p>
+                                                When a drawing operation is completed a color for the contour will be
+                                                randomly selected and, an <i>Annotation</i> dialog will appear. Color
+                                                may be edited by clicking the <b>Color</b> button and modifying the
+                                                values as discussed above in the <i>Preferences</i> dialog.  The first
+                                                time the dialog appears, the <i>User Name</i> and <i>Object Name</i>
+                                                must be filled in. The <i>User Name</i> must be registered with
+                                                the <b>SLASH</b> database.  As the <i>Object Name</i> name is typed,
+                                                an &quot;autosuggestion&quot; menu of <b>NIF</b> ontology names will
+                                                drop down below the input box.  It is recommended but not mandatory
+                                                that the <i>Object Name</i> be from the <b>NIF</b> ontology.
+                                            </p>
+                                            <p>
+                                                Subsequent drawing operations will show the dialog box with values
+                                                pre-entered.
+                                                Simply click <b>Accept</b> to accept the information as shown.
+                                            </p>
+                                            <p>
+                                                To draw an object with more than one contour, either on the current
+                                                plane or on multiple planes, select <i>Draw Multitrace Object</i>. An
+                                                <i>Annotation</i> dialog will only appear for the first contour.
+                                            </p>
+                                            <p>
+                                                <b>Open</b> objects may be created with the <i>Draw Open Object</i>
+                                                action. Drawing and annotation operations function similarly
+                                                to <i>Draw Object</i> but the contour will not be closed
+                                                automatically.
+                                            </p>
+                                            <p>
+                                                <i>Draw Multitrace Open Object</i> operates in a similar manner to
+                                                that above.
+                                            </p>
+                                            <p>
+                                                To add a trace to an existing object, select <i>Add Trace To
+                                                    Object</i> from the menu, press <i>Shift</i> and click on an existing
+                                                trace belonging to the object you wish to add to.  The draw as usual.
+                                                If the object is closed, any added traces will also be closed.
+                                            </p>
+                                            <img src="resources/images/SLASHEditControls.png" style="float:left;margin:5px">
+                                            <object type="application/x-shockwave-flash" style="width:450px; height:366px;" data="http://www.youtube.com/v/or9B-HXdD80?color2=FBE9EC&amp;version=3">
+                                                <param name="movie" value="http://www.youtube.com/v/or9B-HXdD80?color2=FBE9EC&amp;version=3" />
+                                                <param name="allowFullScreen" value="true" />
+                                                <param name="allowscriptaccess" value="always" />
+                                            </object>
+                                            <p>
+                                                To edit the shape of an object or its annotation, select <i>Edit
+                                                Object</i> from the <i>Actions</i> menu.  An <i>Edit Controls</i>
+                                                dialog will appear.  You may move this dialog to a preferred location
+                                                within the window by dragging on the title box. To choose an object to
+                                                be edited, click the <i>Select Object</i> radio button at the bottom
+                                                and clicking the object you wish to edit. The object will be
+                                                highlighted by a thickening of its trace.
+                                            </p>
+                                            <p>
+                                                The trace may either be <b>nudged</b> or <b>attracted</b>.
+                                            </p>
+                                            <p>
+                                                To nudge, select the <i>Nudge</i> radio button at the top of
+                                                the <i>Edit Controls</i> box.  The radius may be adjusted by dragging
+                                                the size of the <b>Nudge Radius</b> circle.  The trace may the be
+                                                pushed and deformed using the cursor.
+                                            </p>
+                                            <p>
+                                                Choosing <i>Attractor</i> from the <i>Edit Controls</i> allows you to
+                                                &quot;attract&quot; the contour with the mouse.  The <b>Attractor
+                                                    Radius</b> is adjusted in a similar manner to the <b>Nudge Radius</b>
+                                                and controls the effective distance of the attraction.
+                                            </p>
+                                            <p>
+                                                Experimentation with these features on a test trace is recommended to
+                                                get a feel for how they operate.
+                                            </p>
+                                            <p>
+                                                To delete an object, select <i>Delete Object</i> from the menu and
+                                                click on the object you wish to remove.
+                                                This will remove <span style="text-decoration:underline;">all</span> traces belonging to the object and the
+                                                object's annotation from the database.
+                                                <b><span style="text-decoration:underline;">WARNING</span>: This operation is currently <span style="text-decoration:underline;">NOT</span>
+                                                    undoable.</b>
+                                            </p>
+                                            <p>
+                                                To delete a trace from and object, select <i>Delete Trace</i> from the
+                                                menu and click on the trace you wish to remove.  This will remove that
+                                                trace only.  If the there are no other traces belonging to the object,
+                                                the object's annotation will <span style="text-decoration:underline;">also</span> be removed from the database.
+                                                Otherwise, only the trace will be deleted. <b><span style="text-decoration:underline;">WARNING</span>: This
+                                                    operation is currently <span style="text-decoration:underline;">NOT</span> undoable.</b>
+                                            </p>
+                                            <p>
+                                                The <i>Undo</i> and <i>Redo</i> operations undo the drawing of a trace
+                                                or redo an undone trace.
+                                                They only affect trace drawing at this time.  More
+                                                robust <i>Undo</i>/<i>Redo</i> will be added at a future date.
+                                        </td>
+                                    </tr>
+                                </table>
+                        <tr>
+                            <td>
+                                <h2 id=Optimization>Optimization</h2>
+                                <p>
+                                    If you are running Firefox, you may wish to tweak your HTTP pipelining
+                                    settings.
+                                </p>
+                                <p>
+                                    To do so, open Firefox and type
+                                </p>
+                                <p>
+                                    <code>about:config</code>
+                                </p>
+                                <p>
+                                    in the URL bar.
+                                </p>
+                                <p>
+                                    A long list of fairly arcane preferences will show up.
+                                </p>
+                                <p>
+                                    In the "Filter" bar at the top of the page type
+                                </p>
+                                <p>
+                                    <code>network.http.pipelining</code>
+                                </p>
+                                <p>
+                                    and you should see two or more entries.
+                                </p>
+                                <p>
+                                    If the
+                                </p>
+                                <p>
+                                    <code>network.http.pipelining</code>
+                                </p>
+                                <p>
+                                    setting is set to a boolean value of "false", simply double click on
+                                    in the Value column for that Preference and it should toggle to
+                                    "true".
+                                </p>
+                                <p>
+                                    Also, you may wish to set the Preference
+                                </p>
+                                <p>
+                                    <code>network.http.pipelining.maxrequests</code>
+                                </p>
+                                <p>
+                                    to 8 (the maximum allowable value) if it is set to some lower value.
+                                    To do this, double click in the Value column for this item and a
+                                    dialog box should pop up.  Type
+                                </p>
+                                <p>
+                                    <code>8</code>
+                                </p>
+                                <p>
+                                    in the appropriate space and click "OK".
+                                </p>
+                                <p>
+                                    This increases the number of HTTP requests "in flight" and can make
+                                    for somewhat improved performance.  Setting it to a higher number than
+                                    8 does nothing useful.
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

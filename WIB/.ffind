@@ -1,0 +1,3 @@
+exclude '\.js$'
+exclude '\.cache\.html$'
+exclude '.*/javadoc/.*\.html$'

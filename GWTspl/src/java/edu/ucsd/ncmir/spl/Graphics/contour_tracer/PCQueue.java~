@@ -1,0 +1,48 @@
+package edu.ucsd.ncmir.spl.Graphics.contour_tracer;
+
+import java.util.ArrayList;
+
+class PCQueue
+    extends ArrayList<TraceElement>
+
+{
+
+    int[][] dumpTrace()
+        
+    {
+
+        TraceElement[] telist = this.toArray( new TraceElement[0] );
+
+        int[][] tlist = new int[telist.length][2];
+
+        int i = 0;
+        for ( TraceElement te : telist ) {
+
+            tlist[i][0] = te.getX();
+            tlist[i][1] = te.getY();
+            i++;
+
+        }
+
+        return tlist;
+
+    }
+
+    private int _istart = 0;
+
+    TraceElement removeElement()
+    {
+
+	TraceElement t = null;
+	if ( this._istart < this.size() ) {
+
+	    this._istart++;
+	    t = this.get( this._istart - 1 );
+
+	}
+
+	return t;
+
+    }
+
+}
